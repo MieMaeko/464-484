@@ -1,0 +1,23 @@
+.tr470_2 > td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+}
+#table474 {
+	border: 1px solid black;
+}
+.deletep {
+	text-decoration: line-through;
+}
+.hidden {
+	display: none;
+}
+.active {
+	background: red;
+}
+.color1 {
+	background: red;
+}
+.color2 {
+	background: green;
+}
